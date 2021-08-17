@@ -1,3 +1,4 @@
+'''Created trackbars to choose custom colors and shades with tuning.'''
 import cv2
 import numpy as np
 
